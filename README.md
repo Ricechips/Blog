@@ -1,6 +1,7 @@
 # Blog
 ## 环境
 > 服务器：阿里云<br>
+> 域名：腾迅云<br>
 > 框架：wordpress<br>
 > 主题:Sakura<br>
 > 已备案<br>
