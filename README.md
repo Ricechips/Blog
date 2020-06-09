@@ -4,6 +4,7 @@
 > 域名:腾迅云<br>
 > 框架:wordpress<br>
 > 主题:Sakura<br>
+> ssl证书:letsencrypt<br>
 > 已备案<br>
 ![avatar](https://github.com/Ricechips/Blog/blob/master/PrtScn/1.png)
 ![avatar](https://github.com/Ricechips/Blog/blob/master/PrtScn/2.png)
